@@ -1,0 +1,9 @@
+{
+    "message": "Este es un archivo de prueba",
+    "status": "success",
+    "data": {
+        "id": 1,
+        "name": "Prueba",
+        "description": "Este es un ejemplo de contenido JSON para pruebas."
+    }
+}
