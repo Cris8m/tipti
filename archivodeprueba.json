@@ -1,9 +1,9 @@
 {
-    "message": "Este es un archivo de prueba",
+    "message": "Este es un archivo de prueba asdfa",
     "status": "success",
     "data": {
         "id": 1,
-        "name": "Prueba",
+        "name": "Prueba cambio en main",
         "description": "Este es un ejemplo de contenido JSON para pruebas."
     }
 }
