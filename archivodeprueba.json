@@ -4,6 +4,6 @@
     "data": {
         "id": 1,
         "name": "Prueba123123asdfasd123",
-        "description": "Este es un ejemplo de contenido JSON para pruebas."
+        "description": "Este es un ejemplo de   JSON para pruebas."
     }
 }
