@@ -9,6 +9,8 @@
         "notifications": true,
         "language": "en-US"
     },
+    "lastLogin": "",
+    "createdAt": "2023-10-01T12:00:00Z",
     "roles": ["admin", "editordasdfasdf"],
     "address": {
         "street": "123 Main St",
