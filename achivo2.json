@@ -3,6 +3,12 @@
     "age": 30,
     "email": "johndoe@example.comasdf",
     "isActive": true,
+    "lastLogin": "2023-10-01T12:00:00Z",
+    "preferences": {
+        "theme": "dark",
+        "notifications": true,
+        "language": "en-US"
+    },
     "roles": ["admin", "editordasdfasdf"],
     "address": {
         "street": "123 Main St",
