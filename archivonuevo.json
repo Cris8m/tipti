@@ -1,0 +1,15 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "description": "This is a sample JSON file.",
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "library1": "^1.0.0",
+        "library2": "^2.3.4"
+    },
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"No tests specified\" && exit 1"
+    }
+}
